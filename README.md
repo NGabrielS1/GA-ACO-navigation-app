@@ -4,5 +4,5 @@ A MTSP solving navigation app powered by the Google Maps API, created for Lomba 
 Uses data from https://www.kaggle.com/datasets/patricklford/travelling-salesman-problem
 
 This repository contains two folders:
-An test folder comparing the speed of brute force and ant colony optimization for TSP
+An test folder used to test the algorithm
 An app folder containing the navigation app
